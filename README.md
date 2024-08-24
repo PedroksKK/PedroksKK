@@ -16,7 +16,7 @@
 <'!--   ======   --'>
 <'!--   ======   --'>
 
-<div class="currículo-ptbr">
+<div class="curriculo-ptbr">
     <ul>
         <li>  •  🇧🇷  </li>
         <li>  • 🌱 Atualmente aprendendo HTML, CSS e JS  </li> 
