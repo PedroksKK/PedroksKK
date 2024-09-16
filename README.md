@@ -7,8 +7,9 @@
             <ul>
                 <li>  •• EMAIL: pedrorigoloncaram@gmail.com  </li>
                 <li>  •• Instagram: @pedro_rcr18  </li>
+                <li>  • 😄 Pronouns: he/his  </li>
             </ul>
-        <li>  • 😄 Pronouns: he/his  </li>
+        
     </ul>
 </div>
 
@@ -24,8 +25,9 @@
             <ul>
                 <li>  •• EMAIL: pedrorigoloncaram@gmail.com  </li>
                 <li>  •• Instagram: @pedro_rcr18  </li>
+                <li>  • 😄 Pronomes: ele/dele  </li>
             </ul>
-        <li>  • 😄 Pronomes: ele/dele  </li>
+        
     </ul>
 </div>
 
